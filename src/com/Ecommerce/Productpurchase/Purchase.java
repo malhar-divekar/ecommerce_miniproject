@@ -9,10 +9,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-/*Product view & Add to cart method
- * 
- * Author VinayakPhatak;
- */
+
 public class Purchase {
 	private String userName;
 	
